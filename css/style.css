@@ -1756,7 +1756,7 @@ header {
 
 #carousel {
     position: relative;
-    width:60%;
+    width:100%;
     margin:0 auto;
     }
     
@@ -1852,4 +1852,9 @@ header {
     .quoteContainer, .authorContainer {
     display: table;
     width: 100%;
+    }
+
+    .bold-text {
+           
+            font-weight: bold;
     }
